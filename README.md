@@ -10,3 +10,5 @@
   - Deployment
   - Service
   - Horizontal Pod Autoscaler (HPA)
+
+- used for playground in [sample-k8s-gitops](https://github.com/gek0/sample-k8s-gitops) repository
