@@ -1,4 +1,4 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: hpa-test
+  name: github-personal-hpa-test

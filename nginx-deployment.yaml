@@ -4,7 +4,7 @@ metadata:
   labels:
     app: nginx-worker
   name: nginx-worker
-  namespace: hpa-test
+  namespace: github-personal-hpa-test
 spec:
   #replicas: 2 # managed by HPA
   selector:
