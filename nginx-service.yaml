@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Service
 metadata:
   name: nginx-worker
-  namespace: github-personal-hpa-test
+  namespace: github-personal-nginx-hpa
 spec:
   selector:
     app: nginx-worker
