@@ -6,7 +6,6 @@
   - use `siege` on master-node guest (or locally on host) to run stress tests and trigger autoscaler
 
 - includes resource:
-  - Namespace
   - Deployment
   - Service
   - Horizontal Pod Autoscaler (HPA)
